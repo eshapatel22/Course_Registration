@@ -1,0 +1,61 @@
+student_id,name,branch,year
+101,Arjun Gupta,Computer,3
+102,Aadhya Sharma,IT,1
+103,Vihaan Verma,Electronics,3
+104,Sara Gupta,Electronics,3
+105,Myra Patel,IT,4
+106,Reyansh Gupta,Computer,3
+107,Ira Verma,Electronics,3
+108,Vihaan Verma,IT,3
+109,Riya Patel,IT,4
+110,Anika Mehta,AI,3
+111,Diya Sharma,AI,2
+112,Sai Mehta,Electronics,3
+113,Anaya Mehta,IT,1
+114,Myra Verma,Electronics,4
+115,Myra Verma,IT,1
+116,Reyansh Patel,IT,4
+117,Navya Gupta,Computer,3
+118,Reyansh Gupta,Electronics,3
+119,Arjun Gupta,Electronics,3
+120,Vihaan Gupta,IT,1
+121,Krishna Patel,AI,1
+122,Navya Mehta,AI,2
+123,Shaurya Mehta,IT,3
+124,Diya Gupta,Data Science,4
+125,Shaurya Mehta,Computer,3
+126,Shaurya Verma,IT,2
+127,Shaurya Sharma,Computer,2
+128,Arjun Patel,Electronics,3
+129,Anaya Sharma,AI,2
+130,Reyansh Patel,Electronics,2
+131,Aditya Sharma,Data Science,2
+132,Reyansh Gupta,AI,2
+133,Anika Verma,IT,3
+134,Aditya Mehta,AI,2
+135,Myra Patel,Computer,2
+136,Ira Verma,Electronics,2
+137,Aadhya Gupta,Computer,2
+138,Ishaan Sharma,Electronics,4
+139,Vihaan Verma,Electronics,4
+140,Ishaan Sharma,IT,2
+141,Vihaan Gupta,Electronics,1
+142,Reyansh Sharma,Electronics,3
+143,Anika Sharma,Computer,4
+144,Anaya Verma,Electronics,1
+145,Aarav Verma,Computer,4
+146,Ishaan Sharma,Computer,4
+147,Diya Patel,Computer,1
+148,Sara Mehta,Electronics,4
+149,Navya Patel,Computer,1
+150,Anaya Sharma,Electronics,4
+151,Aditya Patel,AI,3
+152,Ishaan Mehta,IT,4
+153,Vivaan Mehta,AI,3
+154,Sara Verma,Data Science,4
+155,Krishna Patel,Electronics,4
+156,Myra Mehta,Computer,2
+157,Sai Mehta,Data Science,4
+158,Aditya Patel,AI,2
+159,Sai Mehta,Electronics,1
+160,Anaya Mehta,AI,1
